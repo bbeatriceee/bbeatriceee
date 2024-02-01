@@ -40,9 +40,11 @@
  - University of Sussex LLB in Law (2020-2023)
 
 
+## Certificates
+
+
 ## Technologies & Statistics
 
-# Certificates
 
 ## My Projects
 
