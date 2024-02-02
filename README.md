@@ -31,7 +31,7 @@
 
 ## About Me
 - I'm 21-years-old
-- Currently studying cybercrime for my Master of Laws, however, i also have an interest in coding, therefore in my sparetime I create projects in different programming languages in order to enjoy my hobby and enhance my technological skills
+- Currently studying cybercrime for my Master of Laws, however, i also have an interest in coding. Therefore in my sparetime I create projects in different programming languages in order to enjoy my hobby and enhance my technological skills
 - My main coding language is Python, but I also enjoy working with C++, HTML, CSS, JavaScript and SQL.
 
 
