@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <!-- <img src="https://github.com/bbeatriceee/bbeatriceee/blob/main/OIG1.jpg" width="200"/> -->
+ <img src="https://media.giphy.com/media/MdwOmXIcpbHlcgb5rh/giphy.gif" width="200"/> 
 
 <!--
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
