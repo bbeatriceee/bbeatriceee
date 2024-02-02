@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/MdwOmXIcpbHlcgb5rh/giphy.gif" width="200"/> 
+ <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200"/> 
 
 <!--
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
